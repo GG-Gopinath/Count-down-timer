@@ -1,0 +1,1 @@
+The Countdown Timer is a simple yet versatile tool that helps you keep track of time for various activities. Whether you need to manage your work sessions, cooking times, or any other countdown needs, this timer is designed to be user-friendly and highly customizable.I have done this using HTML,CSS and Javascript.
